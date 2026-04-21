@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Olá, eu sou Linconl Augusto 👋
 
 Desenvolvedor front-end com stack moderno React, baseado em Madrid 🇪🇸.
